@@ -45,9 +45,9 @@ const paths = {
         watch: './src/css-plugins/**/*'
     },
     js: {
-        src: ['./src/js/libraries/**/*.js', './src/blocks/**/*.js', './src/sections/**/*.js', './src/js/custom/**/*.js', 'node_modules/svgxuse/svgxuse.min.js'],
+        src: ['./src/js/libraries/**/*.js',  './src/js/custom/**/*.js', 'node_modules/svgxuse/svgxuse.min.js'],
         dest: './build/js',
-        watch: ['./src/js/libraries/**/*.js', './src/js/custom/**/*.js', './src/blocks/**/*.js', './src/sections/**/*.js',]
+        watch: ['./src/js/libraries/**/*.js', './src/js/custom/**/*.js', ]
     },
     jsPlugins: {
         src: './src/js/plugins/**/*.js',
