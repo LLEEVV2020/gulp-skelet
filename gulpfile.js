@@ -46,7 +46,7 @@ const paths = {
     },
     js: {
         src: ['./src/js/libraries/**/*.js',  './src/js/custom/**/*.js', 'node_modules/svgxuse/svgxuse.min.js'],
-        dest: './build/js',
+        dest: './build/wp-content/themes/twentytwenty-child/js',
         watch: ['./src/js/libraries/**/*.js', './src/js/custom/**/*.js', ]
     },
     jsPlugins: {
