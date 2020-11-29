@@ -81,7 +81,7 @@ const paths = {
     },
     php: {
         src: './src/php/**/*.php',
-        dest: './build/php',
+        dest: './build/wp-content/themes/twentytwenty-child/php',
         watch: './src/php/**/*.php'
     }
 };
