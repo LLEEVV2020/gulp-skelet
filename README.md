@@ -1,6 +1,4 @@
 # gulp-skelet
-skelet layout
-
 Паттерн системы сборки (gulp 4 + pug + sass)
 
 Установка и запуск нового проекта
